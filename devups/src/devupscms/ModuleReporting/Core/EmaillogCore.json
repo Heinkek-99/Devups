@@ -1,0 +1,29 @@
+{
+  "name": "emaillog",
+  "attribut": [
+    {
+      "name": "id",
+      "visibility": "id",
+      "datatype": "integer",
+      "size": "",
+      "nullable": "not",
+      "formtype": "id"
+    },
+    {
+      "name": "object",
+      "visibility": "object",
+      "datatype": "string",
+      "size": 255,
+      "nullable": "not",
+      "formtype": "object"
+    },
+    {
+      "name": "log",
+      "visibility": "log",
+      "datatype": "text",
+      "size": "",
+      "nullable": "default",
+      "formtype": "log"
+    }
+  ]
+}

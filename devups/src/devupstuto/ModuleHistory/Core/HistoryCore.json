@@ -1,0 +1,1 @@
+{"name":"History","attribut":{"1":{"name":"SendNumber","datatype":"integer","size":"55","nullable":"not","formtype":"text"},"2":{"name":"Text","datatype":"string","size":"255","nullable":"not","formtype":"text"},"3":{"name":"DateTime","datatype":"datetime","nullable":"not","formtype":"text"}},"relation":[]}
